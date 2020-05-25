@@ -1,0 +1,36 @@
+body{
+
+background-color: ;
+
+
+}
+
+
+
+.widgets {
+
+background-color: #6DF9E9;
+color: #FFF;
+
+}
+
+
+.widgets > div {
+background-color: #0080AA;
+color: #fff;
+margin-bottom:  15px ;
+
+
+
+}
+
+footer {
+	padding: 0px 80px;
+	background: #464646;
+	text-align: center; 
+	color: #fff;
+	font-size: smaller;
+}
+
+
+
